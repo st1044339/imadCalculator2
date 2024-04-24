@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNum1" type="id">etNum1</item>
+    <item name="etNum2" type="id">etNum2</item>
+    <item name="tvDisply" type="id">tvDisplay</item>
+    <item name="Add" type="id">Add</item>
+    <item name="tvDispaly" type="id">tvDisplay</item>
+    <item name="Subtract" type="id">Subtract</item>
+    <item name="Multiply" type="id">Multiply</item>
+    <item name="Divide" type="id">Divide</item>
+    <item name="Squre" type="id">Squre</item>
+    <item name="Power" type="id" />
+    <item name="btnNextScreen" type="id">btnNextScreen</item>
+</resources>
